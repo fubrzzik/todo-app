@@ -1,7 +1,7 @@
 
 # Todo App
 
-The project is a simple Todo App built with React. It allows users to create, manage, and delete todo items. The app utilizes React hooks and localStorage to store and retrieve todo data, ensuring persistence even after page refresh. Users can add new todos, mark them as completed, and remove them from the list. The user interface is intuitive and user-friendly, making it easy to keep track of tasks and stay organized. The project showcases the fundamentals of building a React application and demonstrates how to implement basic data management functionalities.
+The project is a simple Todo App built with React. It allows users to create and delete todo items. The app utilizes React hooks and localStorage to store and retrieve todo data, ensuring persistence even after page refresh. Users can add new todos and remove them from the list. The user interface is intuitive and user-friendly, making it easy to keep track of tasks and stay organized. The project showcases the fundamentals of building a React application and demonstrates how to implement basic data management functionalities.
 
 ## Features
 
